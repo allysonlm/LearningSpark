@@ -4,4 +4,4 @@
 
 ## Links rapidos
 
-1. Selecionando Colunas (<https://bityli.com/UPTbq>)
+1. Selecionando Colunas. Notebook:<https://bityli.com/UPTbq>
