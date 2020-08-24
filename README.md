@@ -6,17 +6,12 @@
 
 ## Assuntos
 
-1. Selecionando Colunas.
-[Click Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5548372729083570/3801231782395092/2891507303260789/latest.html)
+* [Selecionando Colunas](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5548372729083570/3801231782395092/2891507303260789/latest.html). Como selecionar colunas usando *select*.
 
-2. Filtros Simples
-[Click Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5548372729083570/2699971927231866/2891507303260789/latest.html)
+* [Filtros Simples](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5548372729083570/2699971927231866/2891507303260789/latest.html). Filtrando linhas com *where e filter*.
 
-3. Order By
-[Click Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5548372729083570/2072358788201482/2891507303260789/latest.html)
+* [Order By](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5548372729083570/2072358788201482/2891507303260789/latest.html). Ordenação com *sort* e *order by*.
 
-4. Adicionando Colunas
-[Click Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5548372729083570/2485460927370520/2891507303260789/latest.html)
+* [Adicionando Colunas](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5548372729083570/2485460927370520/2891507303260789/latest.html). *withColumn* para adicionar novas colunas.
 
-5. Strings - Parte 1
-[Click Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5548372729083570/913282128315744/2891507303260789/latest.html)
+* [Strings - Parte 1](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5548372729083570/913282128315744/2891507303260789/latest.html). Trabalhando com strings com *upper, lower, replace e regex*.
