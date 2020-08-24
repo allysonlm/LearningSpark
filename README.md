@@ -1,7 +1,12 @@
 <img src="https://user-images.githubusercontent.com/14312939/91022823-1d8b9f00-e5cc-11ea-897b-feb3575d95dd.png?w=512" height="400" width="700">
 
-# LearningSpark
+
+# Learning Spark
 > Guia de Estudo para Spark com Databricks
+
+
+## Linguagens Utilizadas
+Usaremos Spark SQL, Scala e PySpark
 
 
 ## Assuntos
